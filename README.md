@@ -1,5 +1,8 @@
-### <p align="center" font-size="60px">Hi there! 😉</p>
+# <p align="center" font-size="60px">Hi there! 😉</p>
 
+* <h3><img src="https://cdn-icons-png.flaticon.com/512/2702/2702154.png" style="width: 18px; height: auto;"> I'm in my first semester studying Systems Analysis and Development at UniSENAI</h3>
+* <h3>Currently learning:</h3>
+  <img src="https://cdn.icon-icons.com/icons2/1504/PNG/96/textxpython_103628.png" style="width: 75px; height: auto;"> <img src="https://cdn.icon-icons.com/icons2/1504/PNG/512/applicationjava_103641.png" style="width: 75px; height: auto;">
 
 <!--
 **Schlup/Schlup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
