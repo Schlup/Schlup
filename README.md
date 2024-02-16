@@ -2,7 +2,7 @@
 
 * <h3><img src="https://cdn-icons-png.flaticon.com/512/2702/2702154.png" style="width: 18px; height: auto;"> I'm in my third semester studying Systems Analysis and Development at UniSENAI</h3>
 * <h3>Currently learning:</h3>
-  <a href="https://github.com/Schlup"><img src="https://cdn.icon-icons.com/icons2/1504/PNG/96/textxpython_103628.png" style="width: 75px; height: auto;"></a> <a href="https://github.com/Schlup"><img src="https://cdn.icon-icons.com/icons2/1504/PNG/512/applicationjava_103641.png" style="width: 75px; height: auto;"></a>
+  <a href="https://github.com/Schlup"><img src="https://cdn.icon-icons.com/icons2/1504/PNG/512/applicationjava_103641.png" style="width: 75px; height: auto;"></a>
 
 <h1 align="center">📢 Reach me On</h1>
 <div align="center">
