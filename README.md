@@ -2,7 +2,7 @@
 
 * <h3><img src="https://cdn-icons-png.flaticon.com/512/2702/2702154.png" style="width: 18px; height: auto;"> I'm in my third semester studying Systems Analysis and Development at UniSENAI</h3>
 * <h3>Currently learning:</h3>
-  <a href="https://github.com/Schlup"><img src="https://skillicons.dev/icons?i=react,tailwind,mongodb,express,nodejs" /></a>
+  <a href="https://github.com/Schlup"><img src="https://skillicons.dev/icons?i=react,tailwind,mongodb,express,nodejs,js" /></a>
 
 <h1 align="center">📢 Reach me On</h1>
 <div align="center">
