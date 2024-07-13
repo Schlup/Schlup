@@ -10,5 +10,5 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/alex-schlup-hoffmann-b0288027a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>  
   <a href="https://www.instagram.com/alexschluphoff/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
-  <a href="mailto:contasalex25@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
+  <a href="mailto:contasalex25@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=light" /></a>
 </div>
