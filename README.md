@@ -4,7 +4,7 @@
 * <h3>Currently learning:</h3>
   <a href="https://github.com/Schlup"><img src="https://skillicons.dev/icons?i=react,spring,postgres" /></a>
 * <h3>I'm familiar with:</h3>
-  <a href="https://github.com/Schlup"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git" /></a>
+  <a href="https://github.com/Schlup"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,express,mongodb,git&perline=4&theme=dark" /></a>
 
 <h1 align="center">📢 Reach me On</h1>
 <div align="center">
