@@ -2,7 +2,7 @@
 
 * <h3><img src="https://cdn-icons-png.flaticon.com/512/2702/2702154.png" style="width: 18px; height: auto;"> I'm in my fourth semester studying Systems Analysis and Development at UniSENAI</h3>
 * <h3>Currently learning:</h3>
-  <a href="https://github.com/Schlup"><img src="https://skillicons.dev/icons?i=react,java,spring,postgres&theme=dark" /></a>
+  <a href="https://github.com/Schlup"><img src="https://skillicons.dev/icons?i=react,java,spring,postgres,aws&theme=dark" /></a>
 * <h3>I'm familiar with:</h3>
   <a href="https://github.com/Schlup"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,express,mongodb,git&perline=4&theme=dark" /></a>
 
