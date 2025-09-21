@@ -2,7 +2,7 @@
 
 * <h3><img src="https://cdn-icons-png.flaticon.com/512/2702/2702154.png" style="width: 18px; height: auto;"> Degree in Systems Analysis and Development – UniSENAI</h3>
 * <h3>Currently learning:</h3>
-  <a href="https://github.com/Schlup"><img src="https://skillicons.dev/icons?i=go,firebase,ts,react&theme=dark" /></a>
+  <a href="https://github.com/Schlup"><img src="https://skillicons.dev/icons?i=nodejs,ts,react&theme=dark" /></a>
 * <h3>I'm familiar with:</h3>
   <a href="https://github.com/Schlup"><img src="https://skillicons.dev/icons?i=java,spring,postgres,tailwind,js,mongodb,git,docker&perline=4&theme=dark" /></a>
 
